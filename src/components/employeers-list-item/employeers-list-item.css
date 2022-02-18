@@ -11,13 +11,13 @@
   line-height: 35px;
   font-size: 20px;
   cursor: pointer;
-  min-width: 550px;
+  min-width: 220px;
 }
 
 .list-group-item input {
   line-height: 35px;
   font-size: 20px;
-  text-align: center;
+  text-align: right;
   border: 0;
 }
 
@@ -62,8 +62,4 @@
 
 .list-group-item.increase .btn-star {
   color: #aeaeae;
-}
-
-span.list-group-item-label {
-  color: black;
 }
